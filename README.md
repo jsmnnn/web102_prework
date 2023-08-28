@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/KJQ8ONL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![SeaGameFunding](https://github.com/jsmnnn/web102_prework/assets/115364784/3f6f70d9-0227-436a-992d-03f7e0f21254)
 
 GIF created with LiceCap
 
