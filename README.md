@@ -1,44 +1,39 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaGameFunding
 
-Submitted by: **Your Name Here**
+Submitted by: Jasmine Santiago
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaGameFunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [ ] The introduction section explains the background of the company and how many games remain unfunded.
+- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] There is an additonal button in the Our Games section that allows the user to display the least backed games first to find which games need the most support.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DjvquFH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The optional feature has been added below the required features in index.js in order to avoid confusion.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jasmine Santiago]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
